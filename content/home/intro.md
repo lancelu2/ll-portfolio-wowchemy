@@ -1,5 +1,5 @@
 ---
-widget: authors.lancelu.avatar
+widget: authors.avatar
 headless: true
 weight: 10
 author: admin
