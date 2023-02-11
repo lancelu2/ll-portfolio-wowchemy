@@ -1,7 +1,7 @@
 ---
 title: Lance Lu
 role: Data Scientist
-avatar_filename: headshot.jpg
+avatar_filename: headshot_small.jpg
 bio: ""
 social:
   - icon: envelope
